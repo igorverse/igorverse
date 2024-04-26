@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Igor</h1>
 <h3 align="center">A passionate software developer from 🇧🇷</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igorverse&show_icons=true&locale=en&theme=dark" alt="igorverse" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorverse&show_icons=true&locale=en&layout=compact&hide_progress=true&theme=onedark" alt="igorverse" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
